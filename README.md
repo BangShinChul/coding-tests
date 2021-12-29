@@ -183,3 +183,9 @@ public class WordsInSentence {
 }
 ```
 
+## 참고 자료
+코딩테스트 학습에 도움이 되는 글을 정리하여 아래 링크에 정리한다.
+
+꾸준히 참고하여 실력을 높여보자.
+
+- [좋은 코드를 작성하기 위한 원칙](./docs/PRINCIPLES_FOR_WRITING_GOOD_CODE.md)
